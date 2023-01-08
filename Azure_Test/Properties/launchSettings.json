@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Azure_Test": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7288",
+      "environmentVariables": {
+        "COSMOS_CONNECTION_STRING": ""
+      }
+    }
+  }
+}
